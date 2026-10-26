@@ -1,53 +1,47 @@
-## Hi there, i'm Victoriia 👋
+## Привет! Я Виктория 👋
 
-### Junior Data Analyst
+### Аналитик данных
 
-I'm a beginner Data Analyst focused on working with data, finding patterns, and turning analysis into clear and useful insights.
+Я развиваюсь в области аналитики данных: работаю с данными, ищу закономерности и превращаю результаты анализа в понятные и полезные выводы.
 
-I work with Python and SQL and have experience with exploratory data analysis, statistical analysis, A/B testing, data visualization, and dashboards. My portfolio includes projects based on real-world datasets covering user behavior, vacancies, the gaming industry, and the food-service market.
+Владею Python и SQL, имею опыт исследовательского анализа данных (EDA), статистического анализа, A/B-тестирования, визуализации данных и создания дашбордов. В моём портфолио представлены проекты на основе реальных наборов данных, посвящённые поведению пользователей, рынку вакансий, игровой индустрии и рынку общественного питания.
 
-I'm currently looking for my first opportunity as a Data Analyst and open to remote, hybrid, or office positions.
+Сейчас я ищу первую работу аналитиком данных и рассматриваю удалённый, гибридный и офисный форматы.
 
-### 🛠️ Tools & Technologies
+### 🛠️ Инструменты и технологии
 
-**Programming & Data Analysis**
+**Программирование и анализ данных**
+- Python
+- SQL
+- Pandas
+- NumPy
 
-* Python
-* SQL
-* Pandas
-* NumPy
+**Статистика**
+- SciPy
+- Statsmodels
+- Проверка статистических гипотез
+- A/B-тестирование
 
-**Statistics**
+**Визуализация данных**
+- Matplotlib
+- Seaborn
+- Yandex DataLens
 
-* SciPy
-* Statsmodels
-* Statistical hypothesis testing
-* A/B testing
+**Базы данных и инструменты**
+- PostgreSQL
+- DBeaver
+- Jupyter Notebook
 
-**Visualization**
+### 📂 Проекты
 
-* Matplotlib
-* Seaborn
-* Yandex DataLens
+- [**Проекты Яндекс Практикума](https://github.com/vikakrivenko/Practicum_projects)** — проекты по анализу данных с использованием Python, SQL и инструментов визуализации.
+- **Яндекс Афиша** — исследовательский анализ заказов, выручки, категорий и поведения пользователей.
+- **A/B-тестирование** — анализ эксперимента по оценке влияния нового алгоритма рекомендаций.
+- **Игровая индустрия** — анализ игр, платформ, жанров, региональных предпочтений и рейтингов.
+- **Рынок общественного питания Москвы** — анализ ресторанов и кафе, сетевых заведений, цен, рейтингов и расположения.
+- **Анализ рынка вакансий** — анализ вакансий аналитиков данных и системных аналитиков с использованием SQL и PostgreSQL.
 
-**Databases & Tools**
+### 📫 Контакты
 
-* PostgreSQL
-* DBeaver
-* Jupyter Notebook
-* GitHub
-
-### 📂 Projects
-
-* **[Practicum projects](https://github.com/vikakrivenko/Practicum_projects)** — data analysis projects using Python, SQL and visualization tools.
-* **Yandex Afisha** — exploratory data analysis of user orders, revenue, categories and user behavior.
-* **A/B testing** — analysis of an experiment evaluating the effect of a new recommendation algorithm.
-* **Gaming industry** — analysis of games, platforms, genres, regional preferences and ratings.
-* **Moscow food-service market** — analysis of restaurants, cafes, chains, prices, ratings and locations.
-* **Vacancy market analysis** — SQL analysis of Data Analyst and System Analyst vacancies using PostgreSQL.
-
-### 📫 Contacts
-
-* tg: [@krivick](https://t.me/krivick)
-* Status: **Open to work**
-
+- Telegram: [@krivick](https://t.me/krivick)
+- **Статус:** открыта к предложениям о работе (Open to Work)
